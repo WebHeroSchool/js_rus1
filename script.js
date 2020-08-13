@@ -1,0 +1,1 @@
+alert("Запускается окно JavaScript")
